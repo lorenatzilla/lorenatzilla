@@ -1,1 +1,29 @@
 
+h1 {
+  font-size: 72px;
+}
+
+h2{
+  font-size: 40px;
+}
+body {
+  font-family: Helvetica, Arial, Roboto, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: auto;  
+  padding: 2em;
+  padding-top: 1;
+  color: black;
+  background-color: lightyellow;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+article {
+  display: block;
+  margin: auto;
+  padding: 2em;
+  padding-top: 1em;
+  background-color: lightyellow;
+}
